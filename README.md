@@ -15,7 +15,7 @@ To deploy this project run
 
 ## Screenshots
 
-![App Screenshot](https://drive.google.com/file/d/1IqdeNVFPbONKEM3UN8DQB6W4D8RhKTyg/view?usp=share_link)
+![App Screenshot](https://ibb.co/FDs5vyp)
 
 
 ## 🔗 Links
